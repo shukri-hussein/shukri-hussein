@@ -60,7 +60,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: https://github.com/USERNAME
+- 💼 GitHub: https://github.com/shukri-hussein
 - 📧 Email: nadahussein686@gmail.com
 
 ---
