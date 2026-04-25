@@ -61,7 +61,7 @@
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/USERNAME
-- 📧 Email: your-email@example.com
+- 📧 Email: nadahussein686@gmail.com
 
 ---
 
